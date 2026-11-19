@@ -1,0 +1,27 @@
+{
+  "id": "/scucin/",
+  "name": "SCUCIN - Sistema de Control de Cunas e Incubadoras",
+  "short_name": "SCUCIN",
+  "description": "Sistema académico de demostración para la gestión de espacios neonatales de UCIN.",
+  "lang": "es-MX",
+  "start_url": "/scucin/",
+  "scope": "/scucin/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFFDFA",
+  "theme_color": "#5E208E",
+  "icons": [
+    {
+      "src": "/scucin/assets/img/app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/scucin/assets/img/app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

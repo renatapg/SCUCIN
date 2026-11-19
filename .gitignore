@@ -1,0 +1,16 @@
+# Configuracion local y credenciales
+config/entorno.local.php
+.env
+.env.*
+# Logs y temporales
+logs/*
+!logs/.htaccess
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Respaldos comprimidos de bases de datos
+*.sql.zip
+*.dump
