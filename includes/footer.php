@@ -1,0 +1,1 @@
+</main><footer class="pie">Hospital Universitario La Salle · Sistema de demostración académica SCUCIN</footer><script src="/scucin/assets/js/validaciones.js"></script><script src="/scucin/assets/js/pwa.js"></script></body></html>

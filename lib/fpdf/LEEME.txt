@@ -1,0 +1,1 @@
+Carpeta reservada para fpdf.php y fuentes. El reporte incluido usa impresión del navegador (Guardar como PDF) para que el proyecto funcione sin dependencias. Si se requiere FPDF como requisito estricto, añadir aquí la distribución oficial y ajustar reporte_camas.php.

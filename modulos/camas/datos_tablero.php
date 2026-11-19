@@ -1,0 +1,1 @@
+<?php require_once '../../includes/auth.php';require_once '../../config/conexion.php';header('Content-Type: application/json; charset=utf-8');$q=$pdo->query('SELECT * FROM v_tablero_ucin ORDER BY numero_espacio');echo json_encode($q->fetchAll(),JSON_UNESCAPED_UNICODE);
